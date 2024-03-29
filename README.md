@@ -2,6 +2,7 @@
 
 A personal portfolio is a curated collection of work, projects, skills, and experiences that an individual showcases to present their professional or creative abilities. It serves as a visual and informational representation of a person's talents, achievements, and career journey. Personal portfolios are commonly used by professionals in various fields, including but not limited to:
 
+![Screenshot 2024-03-29 164314](https://github.com/AbhiSharmaNIT/Personal_Portfolio/assets/136017324/008790e5-26b7-4393-9a7c-337910a298dd)
 1. **Web Development and Design:** Web developers and designers often create portfolios to showcase websites, applications, or design projects they have worked on.
 
 2. **Programming and Software Development:** Software developers use portfolios to display coding projects, open-source contributions, and demonstrate their proficiency in programming languages.
